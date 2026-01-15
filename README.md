@@ -1,4 +1,4 @@
-# Prática em Automação Cypress no Real Word App
+# Practice with Cypress Automation in Real Word App
 
 This project utilizes Cypress to automate the testing of a login feature and a user create feature. Cypress is a Javascript-base end-to-end framework that allows developers to write tests and execute them in a real browser.
 
